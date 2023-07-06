@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.hello {
+    color: aqua;
+    cursor: pointer;
+}
+
+
+
+.box {
+    padding: 20px;
+    background-color: red;
+    width: 120px;
+    height: 120px;
+
+}
+
+.box2 {
+    background-color: green;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    border: 1px solid gray;
+    align-items: center;
+    s
+    /* flex-direction: row-reverse; */
+}
